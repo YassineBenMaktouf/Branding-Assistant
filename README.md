@@ -24,4 +24,4 @@ Introducing our revolutionary Branding Assistant GPT, designed to demystify the 
 
 We've meticulously trained our GPT to be your invaluable ally in the realm of brand creation and rebranding with precision. Count on its expertise to guide you through the intricacies of the branding process, whether you're a novice or an established brand seeking a fresh start.
 
-All Training documents can be found in the repository folder named **Training documents**
+All Training documents can be found in the repository
